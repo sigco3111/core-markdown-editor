@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- 배경 -->
+  <rect width="32" height="32" rx="6" fill="#1e293b"/>
+  
+  <!-- 마크다운 'M' 아이콘 -->
+  <path d="M6 8h5l3 6 3-6h5v16h-4v-8l-2 4h-2l-2-4v8H6V8z" fill="#3b82f6"/>
+  
+  <!-- 편집 점 -->
+  <circle cx="26" cy="26" r="2" fill="#10b981"/>
+</svg> 

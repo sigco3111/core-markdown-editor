@@ -523,7 +523,7 @@ Original Markdown:
 ${markdownText}`;
 
           const response: GenerateContentResponse = await ai.models.generateContent({ // ai is now from state
-            model: 'gemini-2.5-flash-preview-04-17',
+            model: 'gemini-2.5-flash',
             contents: prompt,
           });
           
@@ -596,7 +596,7 @@ ${markdownText}`;
         setIsAiSuggesting(true);
         try {
           const response: GenerateContentResponse = await ai.models.generateContent({ // ai is now from state
-            model: 'gemini-2.5-flash-preview-04-17',
+            model: 'gemini-2.5-flash',
             contents: prompt,
           });
 

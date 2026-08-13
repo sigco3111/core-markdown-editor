@@ -3,6 +3,10 @@
 
 **코어 마크다운 편집기**는 실시간 미리보기 기능을 갖춘 강력하고 직관적인 웹 기반 마크다운 편집기입니다. 사용자는 한쪽 창에서 마크다운을 작성하고 다른 쪽 창에서 즉시 렌더링된 HTML 결과를 확인할 수 있습니다. 데스크톱과 모바일 환경 모두에 최적화된 반응형 디자인을 제공하며, Gemini AI를 활용한 다양한 콘텐츠 보조 기능을 통해 생산성을 극대화합니다.
 
+라이브 데모 : https://sigco3111.github.io/core-markdown-editor/
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/core-markdown-editor/)
+
 ## ✨ 주요 기능
 
 *   **📝 실시간 마크다운 편집 및 미리보기**: WYSIWYG과 유사한 경험을 제공하며, 입력과 동시에 결과 확인 가능.
